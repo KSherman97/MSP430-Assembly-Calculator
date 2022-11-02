@@ -1,4 +1,5 @@
-# Calculator
+# Calculator  
+WMU CS2230 - A2
 
 To practice writing assembly and passing parameters, you will implement the math functions of a calculator.
 
